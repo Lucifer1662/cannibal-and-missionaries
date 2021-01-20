@@ -5,7 +5,8 @@
     "images": [
       {
        "path": "steps.png",
-       "title" "The steps to a solve the problem"
-      },
-   ],
+       "title": "The steps to a solve the problem"
+      }
+   ]
 }
+
